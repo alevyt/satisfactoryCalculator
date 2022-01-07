@@ -1,11 +1,24 @@
 {
   "name": "satisfactory_calculator",
   "version": "1.0.0",
-  "description": "an app to calculate maximum efficiency factories for satisfactory game",
+  "description": "React app for calculation of ratios for maximum efficiency factories in satisfactory game",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alevyt/satisfactoryCalculator.git"
+  },
+  "keywords": [
+    "react",
+    "satisfactory",
+    "calculator"
+  ],
+  "author": "alevyt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alevyt/satisfactoryCalculator/issues"
+  },
+  "homepage": "https://github.com/alevyt/satisfactoryCalculator#readme"
 }
